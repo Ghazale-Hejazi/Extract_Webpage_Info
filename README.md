@@ -10,7 +10,7 @@ This simple Python script allows users to input a URL, fetch information about t
 
 2. **Run the Script:**
    Execute the script by running the following command:
-      python exercise2.py
+      python main.py
    
 
 3. **Enter the URL:**
@@ -27,7 +27,7 @@ Make sure to have the required Python packages installed. You can install them u
 ## Script Details
 
 ### File Structure
-- `exercise2.py`: The main Python script.
+- `main.py`: The main Python script.
 - `requirements.txt`: List of Python packages required by the script.
 
 ### Code Overview
